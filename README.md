@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Imran is a Python backend engineer. He specializes in developing web applications using Python and Django. In his free time, Imran enjoys playing cricket and cycling.  👋
 
 <!--
 **Sheikh2Imran/Sheikh2Imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
