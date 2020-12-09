@@ -3,6 +3,11 @@
 
 #### Experience:
     Software Engineer
+    UCB FinTech Ltd.
+    Aug, 2020 - Present
+    Gulshan-1, Dhaka, Bangladesh
+
+    Software Engineer
     Ergo Ventures Ltd.
     Feb, 2020 - Jul, 2020
     Mohakhali DOSH, Dhaka, Bangladesh
