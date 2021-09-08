@@ -1,12 +1,12 @@
 ##### Hi there, I am a Python backend engineer. I specialize in developing web applications and REST API using Python, Django and Django REST Framework. In my free time, I enjoy playing cricket and cycling. 
 
-######Experience Restful API’s with HTTP and Socket Bases Communication.
-######Experience in financial technologies and secure channel communication with the bank.
-######Expertise at third-party API integrations.
-######Experience in Django, Django rest framework, Postgres.
-######Familiar with Go, Git, GitHub, GitLab, Redmine.
-######Basic understanding of Docker, Kubernetes.
-######Love writing clean, readable, maintainable code, and strongly maintain TDD process. 
+#####Experience Restful API’s with HTTP and Socket Bases Communication.
+#####Experience in financial technologies and secure channel communication with the bank.
+#####Expertise at third-party API integrations.
+#####Experience in Django, Django rest framework, Postgres.
+#####Familiar with Go, Git, GitHub, GitLab, Redmine.
+#####Basic understanding of Docker, Kubernetes.
+#####Love writing clean, readable, maintainable code, and strongly maintain TDD process. 
 
 
 #### Experience:
