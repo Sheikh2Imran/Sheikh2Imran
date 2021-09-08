@@ -1,4 +1,12 @@
-##### Hi there, I am a Python backend engineer. I specialize in developing web applications and REST API using Python, Django and Django REST Framework. In my free time, i enjoy playing cricket and cycling. 
+##### Hi there, I am a Python backend engineer. I specialize in developing web applications and REST API using Python, Django and Django REST Framework. In my free time, I enjoy playing cricket and cycling. 
+
+######Experience Restful API’s with HTTP and Socket Bases Communication.
+######Experience in financial technologies and secure channel communication with the bank.
+######Expertise at third-party API integrations.
+######Experience in Django, Django rest framework, Postgres.
+######Familiar with Go, Git, GitHub, GitLab, Redmine.
+######Basic understanding of Docker, Kubernetes.
+######Love writing clean, readable, maintainable code, and strongly maintain TDD process. 
 
 
 #### Experience:
@@ -6,6 +14,13 @@
     UCB FinTech Ltd.
     Aug, 2020 - Present
     Gulshan-1, Dhaka, Bangladesh
+    Key Responsibilities:
+        •Integrating multiple banks to our MFS (উপায়), add money from the card or bank account, credit card bill payment, or get remittance.
+        •Building microservices for various utility bill payments.
+        •Integrating third-party rest and soap API.
+        •Developing scalable, easily maintainable software.
+        •Integrating multiple data sources and databases into one system.
+    Tech stack: Python, Django, Django REST Framework, Postgres, Cassandra, Docker, Redis, Celery, Git.
 
     Software Engineer
     Ergo Ventures Ltd.
@@ -32,7 +47,7 @@
         • Prepare technical documentation.
     Tech stack: Python, Django, Django REST Framework, GraphQL, Postgres, Celery, Git.
         
-    Web Developer
+    Web Developer - (part time)
     LinkingCC
     Mar, 2017 - Feb, 2018
     Jashore, Khulna, Bangladesh
@@ -49,8 +64,7 @@
     
     Govt. PC Collage, Bagerhat
     HSC, Science
+    2011-12
     
     BPGM Rahmania High School
     SSC, Science
-    
-    
