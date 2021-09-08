@@ -6,7 +6,7 @@
     Aug, 2020 - Present
     Gulshan-1, Dhaka, Bangladesh
     Key Responsibilities:
-        •Integrating multiple banks to our MFS (উপায়), add money from the card or bank account, credit card bill payment, or get remittance.
+        •Integrating multiple banks to our MFS (উপায়), add money from the card or bank account, credit card bill payment.
         •Building microservices for various utility bill payments.
         •Integrating third-party rest and soap API.
         •Developing scalable, easily maintainable software.
