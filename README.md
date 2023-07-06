@@ -67,11 +67,11 @@
         • Test and quality assurance according to requirements.
     Tech stack: PHP, MySQL, html, css, git
 
-#### Languages and Technologies 
-Programming Languages: Python, C (basic), C++(basic). 
-Frameworks- Django, Django Rest Framework. 
-Database: PostgreSQL, Cassandra. 
-Technologies- Docker, Apache Kafka, JWT, Redis, Celery, Git, Jira.
+#### Language and Technologies:
+     • Programming Languages: Python, C (basic), C++(basic). 
+     • Frameworks- Django, Django Rest Framework. 
+     • Database: PostgreSQL, Cassandra. 
+     • Technologies- Docker, Apache Kafka, JWT, Redis, Celery, Git, Jira.
 
 #### Education:
     Jashore University of Science and Technology.
