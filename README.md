@@ -1,6 +1,11 @@
 ##### Results-driven Senior Software Engineer with over 4 years of experience in designing, developing, and delivering innovative software solutions for financial technologies. Always eager to apply CS knowledge, software engineering principles, and patterns to my code. Every time I take ownership of my projects and see them through; end-to-end.
 
 #### Experience:
+     Associate Manager
+     BRAC Bank PLC
+     From June 2024 - Present
+     Dhaka, Bangladesh
+     
      Senior Software Engineer
      UCB Fintech Company Limited 
      From Jan 2022 - Present
