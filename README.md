@@ -1,4 +1,4 @@
-##### Over 6 years of professional experience in backend development, specializing in designing, developing, and delivering innovative software solutions for sectors such as banking, finance and enterprise systems. Proficient in backend development, microservices architecture, and integration of third-party services. I consistently write clean, industry-standard code with a strong focus on reliability, maintainability and achieving goal-oriented outcomes. Taking full ownership of projects and delivering comprehensive end-to-end solutions is a cornerstone of my professional approach.
+Over 6 years of professional experience in backend development, specializing in designing, developing, and delivering innovative software solutions for sectors such as banking, finance and enterprise systems. Proficient in backend development, microservices architecture, and integration of third-party services. I consistently write clean, industry-standard code with a strong focus on reliability, maintainability and achieving goal-oriented outcomes. Taking full ownership of projects and delivering comprehensive end-to-end solutions is a cornerstone of my professional approach.
 
 #### Experience:
      Associate Manager
@@ -6,11 +6,11 @@
      Dhaka, Bangladesh
      From June 2024 - Present
      Key Responsibilities:
-     • Design, develop, and maintain backend services for enterprise-level applications.
-     • Implement API integrations with more than 12 third-party backend services.
-     • Applying design patterns, SOLID principles and clean code for maintainable and reliable codebases.
-     • Collaborating with cross-functional teams, including frontend and product to ensure seamless integration and alignment of project goals.
-     • Conducting code reviews and resolving production issues to ensure code quality and system stability.
+          • Design, develop, and maintain backend services for enterprise-level applications.
+          • Implement API integrations with more than 12 third-party backend services.
+          • Applying design patterns, SOLID principles and clean code for maintainable and reliable codebases.
+          • Collaborating with cross-functional teams, including frontend and product to ensure seamless integration and alignment of project goals.
+          • Conducting code reviews and resolving production issues to ensure code quality and system stability.
      
      Senior Software Engineer
      UCB Fintech Company Limited 
