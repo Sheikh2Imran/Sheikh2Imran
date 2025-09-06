@@ -20,6 +20,7 @@ Backend Software Engineer with 6+ years of experience delivering scalable financ
      Senior Software Engineer
      UCB Fintech Company Limited 
      From Aug 2020 - Jun, 2024
+     Dhaka, Bangladesh
      Key Responsibilities:
           ●​ Designed and developed RESTful financial services using Python.
           ●​ Integrated Payoneer with Upay to enable wallet add money.
@@ -37,7 +38,7 @@ Backend Software Engineer with 6+ years of experience delivering scalable financ
     Software Engineer
     Ergo Ventures Ltd.
     Feb 2020 - Jul 2020
-    Mohakhali DOSH, Dhaka, Bangladesh
+    Dhaka, Bangladesh
     Key Responsibilities:
           ●​ Build reliable ERP systems for Mir Group that handle high volumes of data using python and postgres db.
           ●​ Integrated the invoice system into the existing ERP, enabling real-time invoice generation, tracking, and reporting for 1,000+ monthly transactions.
@@ -49,7 +50,7 @@ Backend Software Engineer with 6+ years of experience delivering scalable financ
     Jr. Software Engineer
     Circle Fintech Ltd.
     Feb, 2019 - Jan, 2020
-    Bangla Motor, Dhaka, Bangladesh
+    Dhaka, Bangladesh
     Responsibilities:
           ●​ Implemented fund transfer functionality from JustPay (Jamuna Bank’s mobile app) to bKash mobile wallets, enabling seamless real-time transactions for thousands of users.
           ●​ Integrated third-party APIs including TopUp, Sheba.XYZ, and iPay, expanding the app’s service offerings and increasing user engagement.
