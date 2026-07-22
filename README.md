@@ -1,4 +1,4 @@
-Backend Software Engineer with 6+ years of experience delivering scalable financial and enterprise applications using Python and Django. Strong expertise in REST API design, microservices, and third-party integrations. Proficient in cloud-native and devops tools including AWS, Kubernetes, Docker, and CI/CD. Proven leadership in agile teams with a focus on delivering reliable, secure, and high-performing backend systems.
+Backend Software Engineer with 7+ years of experience delivering scalable financial and enterprise applications using Python and Django. Strong expertise in REST API design, microservices, and third-party integrations. Proficient in cloud-native and devops tools including AWS, Kubernetes, Docker, and CI/CD. Proven leadership in agile teams with a focus on delivering reliable, secure, and high-performing backend systems.
 
 #### Experience:
      Associate Manager
@@ -16,6 +16,8 @@ Backend Software Engineer with 6+ years of experience delivering scalable financ
           response time improvement.
           ●​ Collaborated with cross-functional teams (frontend, QA, product) across 5+ projects to align feature
           delivery with business goals.
+
+     Tech stack: Python, FastAPI, Docker, Kubernetes, Postgres, Redis, Git
      
      Senior Software Engineer
      UCB Fintech Company Limited 
@@ -33,7 +35,7 @@ Backend Software Engineer with 6+ years of experience delivering scalable financ
           ●​ Led and mentored a team of 3–4 engineers, performed code reviews, and managed production deployments.
           ●​ Collaborated closely with functional, product, and business teams.
 
-    Tech stack: Python, Django, Django REST Framework, Postgres, Cassandra, Apache Kafka, Docker, Kubernetes, Redis, Git.
+    Tech stack: Python, Django, Django REST Framework, Postgres, Cassandra, Apache Kafka, Docker, Kubernetes, Redis, Git
 
     Software Engineer
     Ergo Ventures Ltd.
